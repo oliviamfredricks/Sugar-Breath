@@ -1,10 +1,16 @@
 @font-face { 
-	font-family: "Compagnon Light"; 
-	src: url(.../Compagnon-Light.otf); 
-	font-family: "Compagnon Light Italic";
-	src: url(.../Compagnon-Lightitalic.otf);
 	font-family: "Blocus";
-	src: url(.../Blocus.otf);
+	src: url(../Blocus.otf);
+}
+
+@font-face {
+	font-family: "Compagnon"; 
+	src: url(../Compagnon-Light.otf); 
+}
+
+@font-face {
+	font-family: "CompagnonItalic";
+	src: url(../Compagnon-Lightitalic.otf);
 }
 
 
