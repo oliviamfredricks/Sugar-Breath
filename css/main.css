@@ -12,8 +12,7 @@
 }
 
 @font-face {
-	font-family: 'UnifrakturMaguntia', cursive;
-	src: url(https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Yeseva+One&display=swap)
+	font-family: 'Cutive Mono', monospace;
 }
 
 @font-face {
@@ -45,7 +44,7 @@
 
 body {
 /*border: 30px solid #ADEAFD;*/
-font-family: "Compagnon Light";
+font-family: "Cutive Mono";
 /*background-image: url(../images/background.jpg);
 background-size: cover;
 background-repeat: no-repeat;
