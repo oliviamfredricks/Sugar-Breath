@@ -4,6 +4,10 @@
 }
 
 @font-face {
+	font-family: 'UnifrakturMaguntia', cursive;
+}
+
+@font-face {
 	font-family: "Compagnon"; 
 	src: url(../Compagnon-Light.otf); 
 }
@@ -138,7 +142,7 @@ I can't seem to get it to be where the typed header is.
 
 h1{
 	text-align: left;
-	font-family: "Blocus";
+	font-family: "UnifrakturMaguntia";
 	font-size: 6em;
 	width: 80%;
 	position: absolute;
@@ -147,7 +151,7 @@ h1{
 
 h2{
 	text-align: left;
-	font-family: "Blocus";
+	font-family: "UnifrakturMaguntia";
 	font-size: 6.5vw;
 	width: 80%;
 }
