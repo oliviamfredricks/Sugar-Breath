@@ -19,11 +19,27 @@
 @font-face {
 	font-family: "Compagnon"; 
 	src: url(../sugar-breath/Compagnon-Light.otf); 
+	
+	src:url('Compagnon-Light.eot');
+ 	 src:url('Compagnon-Light.eot?#iefix') format('embedded-opentype'),
+   		 url('Compagnon-Light.woff') format('woff'),
+    		url('Compagnon-Light.ttf') format('truetype'),
+ 
+  	font-weight: normal;
+  	font-style: normal;
 }
 
 @font-face {
 	font-family: "CompagnonItalic";
 	src: url(../sugar-breath/Compagnon-Lightitalic.otf);
+	
+	src:url('Compagnon-Italic.eot');
+ 	 src:url('Compagnon-Italic.eot?#iefix') format('embedded-opentype'),
+   		 url('Compagnon-Italic.woff') format('woff'),
+    		url('Compagnon-Italic.ttf') format('truetype'),
+  
+  	font-weight: normal;
+  	font-style: normal;
 }
 
 
