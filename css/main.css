@@ -1,6 +1,6 @@
 @font-face { 
 	font-family: "Blocus";
-	src: url(../sugar-breath/blocuswebfont.ttf);
+	src: url(/../blocuswebfont.ttf);
 }
 
 @font-face {
@@ -10,12 +10,12 @@
 
 @font-face {
 	font-family: "Compagnon"; 
-	src: url(../sugar-breath/Compagnon-Light.otf); 
+	src: url(/../Compagnon-Light.otf); 
 }
 
 @font-face {
 	font-family: "CompagnonItalic";
-	src: url(../sugar-breath/Compagnon-Lightitalic.otf);
+	src: url(/../Compagnon-Lightitalic.otf);
 }
 
 
