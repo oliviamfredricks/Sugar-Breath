@@ -41,16 +41,19 @@ background-color: #F2FBA3;
 
 .column-l {
   width: 45%;
-  height: 50vw;
+  height: 100vh;
   position: relative;
+  padding-right: 6%;
 
 }
 
 .column-l img{
-	padding-top: 4%;
-	padding-left: 4%;
+	padding-top: 2%;
+	padding-left: 2%;
+
 	position: absolute;
-	height: 85vh;
+	height: 50vw;
+	max-height: 85vh;
 }
 
 
@@ -77,11 +80,12 @@ p{
 	overflow: auto;
 	position: absolute;
 	width: 85%; 
-	height: 40%;
+	height: 35%;
 	line-height: 1.3em;
 	padding: 7%;
 	bottom: 14%;
 	right: .2%; 
+	min-width: 30vw;
 	/*can also put under .paragraph p for now and they make it look different*/
 
 }
@@ -144,7 +148,7 @@ h1{
 h2{
 	text-align: left;
 	font-family: "Blocus";
-	font-size: 4em;
+	font-size: 6.5vw;
 	width: 80%;
 }
 
@@ -271,6 +275,11 @@ nav {
   0% { transform: translateX(0); }
   100% { transform: translatex(-1800px); }
 }
+
+
+
+
+
 
 
 
