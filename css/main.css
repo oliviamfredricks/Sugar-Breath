@@ -268,10 +268,11 @@ nav {
 
 }
 
+
 .navlink{
 	display: inline-block;
 	background-color: lightgray;/*#FE6E4C;*/
-	padding: 10px 30px 10px 30px;
+	padding: 1% 1% 1% 1%;
 	align-items: center;
 	/*border-radius: 50px 15px ;*/
 	box-shadow: 5px 5px 5px gray;
